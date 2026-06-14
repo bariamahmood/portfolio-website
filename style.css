@@ -77,3 +77,15 @@ header p{
     padding: 10px 20px;
     border-radius: 10px;
 }
+
+/* Projects Section */
+#projects {
+    background-color: white;
+}
+
+#projects article {
+    background-color: #f4f4f4;
+    padding: 25px;
+    border-radius: 8px;
+    max-width: 500px;
+}
