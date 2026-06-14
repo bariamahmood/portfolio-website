@@ -9,3 +9,9 @@ const themeBtn =document.getElementById("theme-btn");
 themeBtn.addEventListener("click", function() {
     document.body.classList.toggle("dark-mode");
 });
+
+const contactBtn = document.getElementById("contact-btn");
+
+contactBtn.addEventListener("click", function() {
+    alert("Thanks for visiting my portfolio!");
+});
