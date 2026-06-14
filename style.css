@@ -50,3 +50,12 @@ header h1 {
 header p{
     font-size: 1.2rem;
 }
+
+/* About Section */
+#about {
+    background-color: white;
+}
+
+#about p{
+    max-width:700px;
+}
